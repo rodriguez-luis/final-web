@@ -1,0 +1,11 @@
+.fila {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.boton {
+  border: 55px solid #000;
+  border-radius: 55px !important;
+  border: #000 !important;
+}
